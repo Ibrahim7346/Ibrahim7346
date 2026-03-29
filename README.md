@@ -3,7 +3,7 @@
 
 - Introduction-to-Cybersecurity-Harvard-EDX https://github.com/Ibrahim7346/Introduction-to-Cybersecurity-Harvard-EDX/blob/main/README.md
 
-- CompTia-Security-plus-601-701
+- CompTia-Security-plus-601-701https://github.com/Ibrahim7346/CompTia-Security-plus-601-701/blob/main/README.md
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
