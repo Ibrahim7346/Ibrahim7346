@@ -1,6 +1,7 @@
 <h1>Hi, I'm ibrahim! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 <h2>📚 Couses:</h2>
-- <b>Comptia Security +https://github.com/Ibrahim7346/Comptia-Security-
+- Introduction-to-Cybersecurity-Harvard-EDX
+https://github.com/Ibrahim7346/Introduction-to-Cybersecurity-Harvard-EDX
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
