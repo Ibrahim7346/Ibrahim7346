@@ -8,8 +8,8 @@
 - Anki-cybersecurity-decks https://github.com/Ibrahim7346/Anki-cybersecurity-decks/blob/main/README.md
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>TryHackMe</b>
-  - [Praciting TryHackMe](https://github.com/Ibrahim7346/Tryhackme/blob/main/README.md)
+- <b>Cybersecurity Training Platforms</b>
+  - [TryHackMe](https://github.com/Ibrahim7346/Tryhackme/blob/main/README.md)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
