@@ -1,5 +1,5 @@
 <h1>Hi, I'm ibrahim! 
-<h2>📚 Couses:</h2>
+<h2>📜Certifications/Badges:</h2>
 
 - Introduction-to-Cybersecurity-Harvard-EDX https://github.com/Ibrahim7346/Introduction-to-Cybersecurity-Harvard-EDX/blob/main/README.md
 
