@@ -5,6 +5,7 @@
 
 - CompTia-Security-plus-601-701https://github.com/Ibrahim7346/CompTia-Security-plus-601-701/blob/main/README.md
 - CCNA-CompTia-Network-plus https://github.com/Ibrahim7346/CCNA-CompTia-Network-plus
+- Anki-cybersecurity-decks https://github.com/Ibrahim7346/Anki-cybersecurity-decks/blob/main/README.md
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
