@@ -1,12 +1,21 @@
-<h1>Hi, I'm ibrahim 👋
-<h2>📜Certifications/Badges:</h2> 
+# Hi, I'm Ibrahim 👋
 
-- [Introduction-to-Cybersecurity-Harvard-EDX](https://github.com/Ibrahim7346/Introduction-to-Cybersecurity-Harvard-EDX/blob/main/README.md)
+Political Science student building practical skills in cybersecurity, networking, and programming.
 
-- [CompTia-Security-plus-601-701](https://github.com/Ibrahim7346/CompTia-Security-plus-601-701/blob/main/README.md)
-- [CCNA-CompTia-Network-plus](https://github.com/Ibrahim7346/CCNA-CompTia-Network-plus)
+## 📚 Learning Journey
+
+My course notes, certificates, badges, and study resources are organized by course:
+
+- [Learning Journey](https://github.com/Ibrahim7346/learning-journey) — HarvardX CS50 Cybersecurity, CompTIA Security+, CCNA, and Network+
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 🧪 Cybersecurity Labs
 
-- <b>Cybersecurity Training Platforms</b>
-  - [TryHackMe](https://github.com/Ibrahim7346/Tryhackme/blob/main/README.md)
+- [Cybersecurity Labs](https://github.com/Ibrahim7346/cybersecurity-labs) — TryHackMe learning and Cisco Packet Tracer networking labs
+
+## 🐍 Python Mini Projects
+
+- [Python Mini Projects](https://github.com/Ibrahim7346/python-mini-projects) — a home for small Python projects and scripts; projects will be added as I build them
+
+## 🔧 Currently Learning
+
+Cybersecurity · Networking · Python · Cloud / AWS · Linux
