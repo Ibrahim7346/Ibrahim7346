@@ -12,7 +12,7 @@ Hands-on TryHackMe learning and Cisco Packet Tracer networking labs are in [Cybe
 
 ## 🐍 Python Mini Projects
 
-[Python Mini Projects](https://github.com/Ibrahim7346/python-mini-projects) is ready for the small scripts and projects I build as I learn.
+[Python Mini Projects](https://github.com/Ibrahim7346/python-mini-projects) contains 21 beginner Python and cybersecurity scripts. Its README explains each script's purpose, learning focus, dependencies, and how to run it.
 
 ## 🔧 Currently Learning
 
